@@ -33,7 +33,7 @@ The system uses the **YOLOv4** deep learning model trained on the **COCO dataset
 # 📂 Project Structure
 
 ```bash
-VisionTrack AI/
+VisionTrack-AI/
 │
 ├── assets/
 │   ├── detect1.png
@@ -124,8 +124,8 @@ The tracking algorithm:
 ## 1️⃣ Clone the Repository
 
 ```bash
-git clone https://github.com/hamzamehmoodkhan1245/VisionTrack AI.git
-cd VisionTrack AI
+git clone https://github.com/hamzamehmoodkhan1245/VisionTrack-AI.git
+cd VisionTrack-AI
 ```
 
 ---
@@ -168,7 +168,7 @@ dnn_model/
 # ▶️ Run the Project
 
 ```bash
-python object_detection.py
+python VisionTrack-AI.py
 ```
 
 ---
