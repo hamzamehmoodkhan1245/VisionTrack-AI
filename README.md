@@ -1,6 +1,6 @@
 # 🚀 Smart Object Detection & Tracking System using YOLOv4 and OpenCV
 
-A real-time AI-powered Object Detection and Tracking System built with **YOLOv4**, **OpenCV**, and a custom **Centroid Tracking Algorithm**.  
+VisionTrack AI: Real-Time Multi-Object Detection and Tracking using YOLOv4 and OpenCV Tracking Algorithm**.  
 The system detects multiple objects in video streams and assigns a unique tracking ID to each detected object in real time.
 
 ---
@@ -33,7 +33,7 @@ The system uses the **YOLOv4** deep learning model trained on the **COCO dataset
 # 📂 Project Structure
 
 ```bash
-AI-Tracking-System/
+VisionTrack AI/
 │
 ├── assets/
 │   ├── detect1.png
@@ -124,8 +124,8 @@ The tracking algorithm:
 ## 1️⃣ Clone the Repository
 
 ```bash
-git clone https://github.com/hamzamehmoodkhan1245/AI-Tracking-System.git
-cd AI-Tracking-System
+git clone https://github.com/hamzamehmoodkhan1245/VisionTrack AI.git
+cd VisionTrack AI
 ```
 
 ---
